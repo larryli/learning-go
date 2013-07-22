@@ -33,3 +33,5 @@ _cgo_export.*
 _testmain.go
 
 *.exe
+
+chap1/calcproj/bin/calc
