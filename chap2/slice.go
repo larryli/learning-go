@@ -14,7 +14,7 @@ func main() {
 		fmt.Print(v, "  ")
 	}
 
-	fmt.Println("\nElements of myAlice:")
+	fmt.Println("\nElements of mySlice:")
 	for _, v := range mySlice {
 		fmt.Print(v, "  ")
 	}
